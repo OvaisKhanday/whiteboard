@@ -2,9 +2,15 @@
 
 A realtime collaborative whiteboard sharing
 
-![Login](https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/hero-1.png)
+![Hero](https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/hero-1.png)
 
-![Login](https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/draw-1.png)
+![Main](https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/draw-1.png)
+
+## Video
+
+<https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/Recording-1.m4v>
+
+[![Watch the video](https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/hero-1.png)](https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/Recording-1.m4v)
 
 ## Tech used
 
@@ -25,4 +31,3 @@ A realtime collaborative whiteboard sharing
 - Save whiteboard to an image
 - Authentication (login/signup)
 - Responsive
--
