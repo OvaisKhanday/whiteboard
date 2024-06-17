@@ -10,8 +10,6 @@ A realtime collaborative whiteboard sharing
 
 <https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/Recording-1.m4v>
 
-[![Watch the video](https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/hero-1.png)](https://raw.githubusercontent.com/OvaisKhanday/Markdowns/main/whiteboard/Recording-1.m4v)
-
 ## Tech used
 
 - Keycloak for authentication (via Docker)
